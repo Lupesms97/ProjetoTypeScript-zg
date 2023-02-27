@@ -2,37 +2,37 @@
 
 # Cadastro de Candidato:
 
-.Nome completo
-.Endereço de e-mail
-.Senha
-.Telefone
-.Currículo (envio de arquivo ou preenchimento manual)
-.Lista de habilidades ou competências (por exemplo: Python, Java, C++, etc.)
+*Nome completo
+*Endereço de e-mail
+*Senha
+*Telefone
+*Currículo (envio de arquivo ou preenchimento manual)
+*Lista de habilidades ou competências (por exemplo: Python, Java, C++, etc.)
 
 # Cadastro de Empresa:
 
-.Nome da empresa
-.Endereço de e-mail
-.Senha
-.Telefone
-.Descrição da empresa
-.Lista de habilidades ou competências desejadas nos candidatos (por exemplo: Python, Java, C++, etc.)
+*Nome da empresa
+*Endereço de e-mail
+*Senha
+*Telefone
+*Descrição da empresa
+*Lista de habilidades ou competências desejadas nos candidatos (por exemplo: Python, Java, C++, etc.)
 
 # Perfil de Candidato:
 
-.Nome completo
-.Endereço de e-mail
-.Telefone
-.Currículo
-.Lista de habilidades ou competências
-.Histórico de empregos anteriores
+*Nome completo
+*Endereço de e-mail
+*Telefone
+*Currículo
+*Lista de habilidades ou competências
+*Histórico de empregos anteriores
 
 # Perfil de Empresa:
 
-.Nome da empresa
-.Endereço de e-mail
-.Telefone
-.Descrição da empresa
+*Nome da empresa
+*Endereço de e-mail
+*Telefone
+*Descrição da empresa
 
 ### Lista de habilidades ou competências desejadas nos candidatos
 ### Lista de candidatos correspondentes às competências desejadas (exibidos anonimamente)
