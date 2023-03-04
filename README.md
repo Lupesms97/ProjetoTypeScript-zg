@@ -42,4 +42,4 @@
 ### Lista de vagas de emprego disponíveis com informações básicas, como nome da empresa, localização, título da vaga e uma breve descrição da posição.
 ### Lista de todos os candidatos cadastrados, mostrados em anônimo, com informações de habilidades e formação na tela de perfil da empresa:
 
-### Lista de candidatos correspondentes às habilidades e competências desejadas pela empresa, exibidos anonimamente. As informações devem incluir nome de usuário, habilidades e formação.
+### Lista de candidatos correspondentes às habilidades e competências desejadas pela empresa, exibidos anonimamente. As informações devem incluir nome de usuário, habilidades e formação
